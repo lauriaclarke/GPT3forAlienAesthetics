@@ -1,0 +1,36 @@
+MODEL: davinci
+
+PROMPT: Can an algorithm have agency?
+
+---
+
+ And if so, do we want to make better political subjects of computers?
+
+These are the kinds of questions Natasha Law asks in her new book, Why Algorithms Should Not Have Babies: A Critical Reflective Essay on Algorithmic Systems and the Culture of Automation.
+
+---
+
+ Or was Turing’s response simply designed to be another way of asking if a computer could think?” Schürmann writes, when normally thought of as an essential part of a machine’s ability to reason.
+
+---
+
+ If a computer composes a novel and a poem comes out that people like, is it now literature? Societies produced by computers are a 21st century topic.
+
+---
+
+ This question immediately invites multiple meanings of agency, to which I don't know the answer.
+
+---
+
+”
+
+This is a remarkably new question.
+
+---
+
+ Algorithms are distinctly human creations, encoded with creative intelligence to solve problems and address quest… Read more
+
+Can we have emotions in an algorithmic world? Google Home Assistant has "personality chips" that adapt to individual users, and many think AI can understand wha… Read more.
+
+---
+

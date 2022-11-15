@@ -1,0 +1,44 @@
+MODEL: davinci
+
+PROMPT: Can an algorithm have agency?
+
+---
+
+ By examining a series of increasingly complex stringed wire communication systems, this brief will explore issues of agency and direction, while determining the degree to which these processes are “directed” or guided by human or algorithmic agency.
+
+---
+
+
+
+Alexa, can you read emotions?
+
+“Interpersonal boundaries are not just about using the wrong name or saying the wrong thing; they are about inhabiting the other’s territory without permission.
+
+---
+
+ What does it mean when a computer starts taking initiative and making high-stakes decisions on its own?
+
+As you make your way through this course we will engage with this question by learning about the history of automated decision making technologies, investigating the ethical challenges brought about by modern computational decision making, and learning how to identify and solve epistemic and moral challenges in automated decision making.
+
+---
+
+ Are the effects of algorithms made by humans not just the effects of those humans, but of algorithms themselves?
+
+These questions like all philosophical questions run along a continuum from total foolishness to deep profundacy.
+
+---
+
+
+
+This is a free online course offered by the Ignatt School of Information Technology and Training (ISTT), Western Sydney University.
+
+---
+
+
+
+If machines don't actually have the power to do or determine anything ever, then how can algorithms have any authority or power at all?
+
+In my mind, the problem implicitly involves "agency" -- the power to act.
+
+---
+

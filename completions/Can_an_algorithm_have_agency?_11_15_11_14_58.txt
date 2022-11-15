@@ -1,0 +1,30 @@
+MODEL: davinci:ft-the-new-school-2022-11-10-14-57-07
+
+PROMPT: Can an algorithm have agency?
+
+---
+
+ And what is consensus, when it happens? You can’t see it, touch it, or ‘watch’ it.
+
+---
+
+ Does it have a will or a mind of its own? How can we judge if an algorithm is correct or whether it is out of its 'mind'? This book traces today's debates on code and creativity back to such questions and offers original contributions on the agency of code and the creativity of algorithms.
+
+---
+
+ These are all open questions I’m trying to answer”, Smith says.
+
+---
+
+ Can it commit a crime? These are by no means straightforward questions, but for the moment let us accept them here as a vehicle for thinking with Butler about the intertwining odysseys of dehumanization and ontological insecurity that inform our existence under capital.
+
+---
+
+ Does it have any decision-making principles of its own? The ethical concerns involved in the algorithmic automation of decision-making are addressed by carrying out a philosophical discussion of machine agency, using the Turing test [19] as a starting point to consider whether a machine can be said to do rather than just simulate doing when going through the algorithmic procedural of decision-making.
+
+---
+
+ And if it can, what is the nature of that agency?’ Framing the problem of algorithmic agency in this way has the great merit of speaking directly to the factual point that algorithms do today have a measure of independent operational capacity in contemporary digital environments.
+
+---
+
