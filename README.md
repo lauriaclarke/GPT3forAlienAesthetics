@@ -1,6 +1,6 @@
 # GPT-3 for Alien Aesthetics
 
-This respository contains a dataset generation script and completion tool for use with GPT-3. All instructions included here are highlevel and are not meant to be a step by step guide to reproduce this work. 
+This respository contains a dataset generation script and completion tool for use with GPT-3. All instructions included here are highlevel and are not meant to be a comprehensive step by step guide to reproduce this work. 
 
 ### Contents
 
