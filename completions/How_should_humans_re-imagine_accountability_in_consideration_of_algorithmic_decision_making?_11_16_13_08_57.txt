@@ -1,0 +1,36 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: How should humans re-imagine accountability in consideration of algorithmic decision making?
+
+---
+
+ How can human concept of responsibility be layered with algorithmic accountability? How can we disrupt technocratic perspectives towards embodied, gendered, racialised, classed and ecological ways of knowing? On the eve of the COP24, these are some key questions we will explore with Paola Tubaro from Aspirazione Spinelli and Radhika Maniktill from Feminist-inist.
+
+---
+
+ This article takes inspiration from Artin Tate's (2016) recent work on humans' flawed conception of autonomy and argues that, if we fail to include humans in the holistic framework of accountability for automated decisions, we reproduce authoritarian relationships between humans and machines.
+
+---
+
+ One way of addressing this is to audit the decision-making logic of the algorithm.
+
+---
+
+ Giving voice to the Al in the act of creation.
+
+---
+
+
+
+How can we shift existing accountability practices to acknowledge and embrace the complexity of data logic instead of presuming that humans have access to the black box?
+
+The organizing principle around which this issue will be sequenced is thus one of emergence.
+
+---
+
+
+
+This panel invites scholars working in the fields of law, policy, sociology, computer science, philosophy, communication, media studies, and urban planning to explore the multiple compositions of accountability brought forth by algorithmic assemblages in urban governance and the built environment.
+
+---
+

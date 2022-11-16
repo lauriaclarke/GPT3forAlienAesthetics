@@ -1,0 +1,40 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: What is the difference between the continuous and discrete worlds?
+
+---
+
+ The difference is immense, to the extent that the two worlds differ in their very nature.
+
+---
+
+.
+
+---
+
+
+
+By Leopoldina Galeano
+
+Creative Commons
+
+A question came up during our Local 2012 (and by "our," we mean the members of the National Union of Hospitality and Restaurant Employees, Local 226) meeting at Workers United (and by "meetings," we mean discussions) about the difference between the continuous and discrete world.
+
+---
+
+ Can you sum up the differences in a sentence or two, in terms not already in the literature?
+
+Three applications: weather prediction, stock prices, human height.
+
+---
+
+
+
+In the Classical understanding of the continuum, interaction between bodies and wholes occurs in an instantaneous passing from 1 to n for n bodies.
+
+---
+
+ And how, in the case of numbers, do we bridge the gap? Gottfried Leibniz, who was one of the first to ask these questions about numbers, reckoned, quite simply, that infinity for Aristotle was all the numbers added up.
+
+---
+

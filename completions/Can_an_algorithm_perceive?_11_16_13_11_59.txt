@@ -1,0 +1,30 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: Can an algorithm perceive?
+
+---
+
+ © 2014 The Author.
+
+---
+
+ Clare Gorst, University College, Dublin For an algorithm to 'perceive' it must engage in pattern recognition: it must read, compute, abstract and interpret these patterns either as formal instructions (the step-by-step instructions an ile provides) or, in the case o features of a given environment, as perceptible features (data visualisation in a weather station, for example) The longer history of philosophy associated with perception studies how it is that a human, who is a patterned creature, might come to apprehend the patterns (or properties) of their own bodies and their worldly environment (Husserl 1960).
+
+---
+
+ Could artificial intelligence recognize what humans can only see through the lens of experience? Is there any thing about the real world, the social relations that create us, or the knowledge we create through living that is inaccessible to machines? In some sense the problem is ontological: how can something without a body perceive things that we can only know through experiences that are, at least in part, dependent on the body? Is there any thing about experience that should be considered as an exclusive property of humans and which, therefore, could not be simulated by a computer program? And, vice versa, is there anything about the objects computers simulate that can escape the simulations of artificial intelligence? In what follows I will investigate experiences of perception and simulation in the digital age.
+
+---
+
+ Why should this question seem troublesome in the ﬁeld of vision and pattern recognition? I do want to claim, though, tentatively, that an algorithm’s inability to recognize something as a face does not implicate the origin of perception in material and biological domains only.
+
+---
+
+ Can a non-human subject have a sensibility in the strong sense of the term? Can a machine have a sensory experience, as a natural sensing organism can? This question, alarming at first glance but actually quite abstract and thus unlikely to scare anyone, has been addressed by phenomenology, among 20 other philosophical disciplines.
+
+---
+
+ My own attempt at addressing this question is inspired by Hao Wang’s (1956, 259) remark that, from a formalist perspective, “no algorithm can be said to do a realistic job.
+
+---
+

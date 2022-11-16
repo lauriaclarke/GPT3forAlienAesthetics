@@ -1,0 +1,42 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: Is it possible for a digitally implemented algorithm to express the complexity of the continuous world?
+
+---
+
+
+
+If not, is it possible for a series of algorithms to generate something beyond discrete inputs, outputs, and inbetween values?
+
+This article is based on a personal research blog that I have been writing since October 2016.
+
+---
+
+
+
+The Exploration #2 —Fractal Dimension
+
+Fractal geometry investigates the self-similarity of shapes across multiple scales, shaping the algorithmic design of pixels in computer graphic images, screensavers, posters wishing “you a fractally wonderful day,” and in the design of financial instruments.
+
+---
+
+
+
+The reduction of natural phenomena to computable terms takes place in the phenomenon of quantization.
+
+---
+
+ We have seen that the rules of primitive discretization and the transformations allowed by the discrete logic have detrimental epistemic and ontological consequences.
+
+---
+
+ In his study Toward a Theory of Digital Poetry, Rafael Landivar argues that it is possible, as long as the limit to calculation stands as one condition for creativity in algorithms, since within these limits new aesthetic possibilities are opened.
+
+---
+
+
+
+See Scott Bukatman, Endless Flow: On the Move in Technology and Culture (Minneapolis: University of Minnesota Press, 2008): 1–14.
+
+---
+

@@ -1,0 +1,40 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: Who holds ownership of digital data on the internet?
+
+---
+
+
+
+by Albert Alarcon-Way
+
+In the age of social media platforms and search engines connecting people organically over the internet, headlines are often dominated by stories of data breaches, privacy policies, and ownership disputes.
+
+---
+
+ At stake are policy questions about data ownership, data use rights, data-based products and services.
+
+---
+
+ What rights and entitlements accrue to its owners? A new generation of free and open software initiatives, advanced hardware and powerful standards may offer an unexpected answer to this question while offering insight into the next stage of the technological revolution heralded by the internet.
+
+---
+
+
+
+How can we protect the ownership of digital items or data that we produce? Are there good practices that developers or designers should follow in the design of apps to make “owning” data more accessible? Although these questions may seem to belong to the field of law or technology, they actually go deeper into the core of what it means to be human as they intersect with ownership, dignity, and value.
+
+---
+
+ If I post a picture online does that give a company the right to print it, sell it multiple times and push anyone who comes close out of the picture?
+
+The right to reuse data is enshrined in international law through the EU’s General Data Protection Regulation (GDPR), but discussions on tracking, reusing and selling data are hidden behind everyday activities that are associated with the internet and mobile phones.
+
+---
+
+ Do internet archives, by keeping back-ups of all kinds of data, become de facto publishers? Who has access to the data logs and storehouses and for what purpose?
+
+In order to answer the last question, we need to sketch how algorithmically driven models of data management organise internet data and how the accumulation of these data shapes our world, today.
+
+---
+

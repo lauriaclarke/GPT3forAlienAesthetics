@@ -1,0 +1,32 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: What is the difference between the continuous and discrete worlds?
+
+---
+
+ While philosophers have written complex treatises on the topic, sometimes the answer is unclear even to professional mathematicians.
+
+---
+
+ Time is continuous in the world that we experience, but discrete in a digital computer.
+
+---
+
+ Consider the definition of the cardinality of a set: the cardinality of a set A is the number n such that there are exactly n elements of A.
+
+---
+
+ In this case, I simply do not know.
+
+---
+
+If the world consists of discrete elements and discrete processes, then, firstly, there are no spatial and temporal continuities, secondly, there are no laws, and thirdly, there are no substances.
+
+---
+
+
+
+The discrete is built from parts and the continuous from wholes.
+
+---
+

@@ -1,0 +1,38 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: How would you structure a course on algorithmic aesthetics?
+
+---
+
+ Chris Letiche / Getty
+
+First, I would divide the course into two parts.
+
+---
+
+ In fact, the training of an algorithmic thinker requires that the students find their own questions and paths, so I sketched out a possible course together with my colleague Anna Munster.
+
+---
+
+ Could you offer some ideas on readings, possible examples from research in actual programming code, and types of exercises?
+
+I would not focus too much on the computational element, but mainly on the notion of algorithms as organizing principles of the aesthetic, in a non-judgmental fashion.
+
+---
+
+
+
+SA: In the article I say that you need to start from epistemology and aesthetics and philosophy, meaning the study of the nature of knowing and experience.
+
+---
+
+ and how would you develop the relation of the algorithmic to aesthetics? Do you have favourite references or texts on the subject?
+
+1.
+
+---
+
+ Would you treat computational creations like artworks? How do you assess aesthetic qualities in a machine-made object? How would you handle a program which is specifically designed to kill the notion of aesthetic experience? Computational aesthetica rethinks the relationship between human and machine intelligence, reconceptualising algorithms as life-forms, and their creations as material embodiments of a distinct aesthetic reasoning.
+
+---
+
