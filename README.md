@@ -1,6 +1,6 @@
 # GPT-3 for Alien Aesthetics
 
-This respository contains a dataset generation script and completion tool for use with GPT-3. All insructions included here are highlevel and are not meant to be a step by step guide to reprocudde this work. 
+This respository contains a dataset generation script and completion tool for use with GPT-3. All instructions included here are highlevel and are not meant to be a step by step guide to reprocudde this work. 
 
 ### Contents
 
@@ -17,7 +17,7 @@ This repo contains the following:
 ### Setup
 
 To recreate this work on your own you will need the following\*:
-- and openai account and API key linked to a paid account using [these insturctions](https://beta.openai.com/docs/guides/fine-tuning)
+- and openai account and API key linked to a paid account using [these instructions](https://beta.openai.com/docs/guides/fine-tuning)
 - pdftotext, or equivalent command line tool
   - to install in Linux: ``sudo apt install poppler-utils``
 - Python 3
