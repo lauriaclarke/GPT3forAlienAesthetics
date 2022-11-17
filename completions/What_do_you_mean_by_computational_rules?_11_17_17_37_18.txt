@@ -1,0 +1,36 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: What do you mean by computational rules?
+
+---
+
+ Calculative thinking is based on formal rules and logical reasoning, but human reasoning isn't only binary logic.
+
+---
+
+ Are these rules material or conceptual? Is everybody thinking about this? Or is this a new way of thinking about computation?
+
+Here’s what I mean by computational rules: I see computation as a set of mathematical methods, implemented unconsciously in our brains, that allow us to think, reason, and talk.
+
+---
+
+ A key requirement of the use of computational methods to decipher an image is that the rules that the computer carries out must be measurable and reproducible, hence measurable in the reproduction of a series of images, once the deciphering has been carried out.
+
+---
+
+
+
+Computation is the set of all instruction sets associated to an automaton, used to produce a finite number of 'outputs' from an infinite set of inputs.
+
+---
+
+
+
+For me, computational rules encompass both the materiality of computing and the socio-cultural constitution of cyberspaces.
+
+---
+
+ The content of the instructions is not important here.
+
+---
+
