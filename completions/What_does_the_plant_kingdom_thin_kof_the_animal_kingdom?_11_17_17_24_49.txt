@@ -1,6 +1,0 @@
-MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
-
-PROMPT: What does the plant kingdom thin kof the animal kingdom?
-
----
-
