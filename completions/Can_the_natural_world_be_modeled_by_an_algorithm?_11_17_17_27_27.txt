@@ -1,0 +1,33 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: Can the natural world be modeled by an algorithm?
+
+---
+
+ This specific question was actually put to me by Johann Gustav Droysen, who prompted me to think about Reynolds’s thoughts.
+
+---
+
+
+Confining life to the digital is not just a questionable procedure it is an absurd one: life is a process of becoming in a pre-formed environment that is never fully presented.
+
+---
+
+ If so, models borrowed from computer science and from natural science are then supposed to bring about better decisions, through the application of so-called posthuman approaches.
+
+---
+
+ Peter Sloterdijk on artificial intelligence and the philosophical struggles with machines → Sloterdijk, Peter.
+
+---
+
+ Why and when would such a model be useful, or even imaginable? How far can we go if we accept the idea that the language and logic of computation can describe the world?
+
+This post investigates these questions along three different axes.
+
+---
+
+ In this volume, Reza Negarestani establishes a relation between computation and nature by taking Benjamin D.
+
+---
+
