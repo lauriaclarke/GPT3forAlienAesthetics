@@ -2,6 +2,8 @@
 
 This respository contains a dataset generation script and completion tool for use with GPT-3. All instructions included here are highlevel and are not meant to be a comprehensive step by step guide to reproduce this work. 
 
+**HOT TIP** when reading files in the completions directory click the little button that says **raw** in the upper left corner to have text wrapping **HOT TIP**
+
 ### Contents
 
 This repo contains the following:
