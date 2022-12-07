@@ -1,0 +1,36 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: How would you structure a course on algorithmic aesthetics?
+
+---
+
+ That is the question I will be paying attention to throughout this text.
+
+---
+
+ WikiFeud as poetry.
+
+---
+
+
+
+Our course, CS97AC: Visualizing Algorithms, came out of this debate between humanities and computer science.
+
+---
+
+ What are the best steps to take in teaching students programming and computational thinking, while also developing their creative capacities? And, finally, are there still any aesthetic concerns possible in the calculating world of algorithms and their ‘calculative reason’?
+
+I have been teaching an MA course on ‘Aesthetics and Computation’ at Goldsmiths, University of London, since 2017.
+
+---
+
+
+
+I'm not a teacher anymore, but I did teach algorithms before, in mathematics and computer science programs.
+
+---
+
+.
+
+---
+

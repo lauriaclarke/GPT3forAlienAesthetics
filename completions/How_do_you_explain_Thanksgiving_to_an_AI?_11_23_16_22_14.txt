@@ -1,0 +1,22 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: How do you explain Thanksgiving to an AI?
+
+---
+
+
+
+Luckily, as Thanksgiving approaches, a few companies are taking time to contemplate all of this.
+
+---
+
+ In an age of sophisticated high-tech interfaces, it may be surprising to learn that the contemporary genre of the audio book owes its existence (at least in part) to a low-tech gadget, the audiocassette.
+
+---
+
+
+
+Technologies that use algorithms, or sets of rules to process data, have never needed to understand language — until chatbots,.
+
+---
+

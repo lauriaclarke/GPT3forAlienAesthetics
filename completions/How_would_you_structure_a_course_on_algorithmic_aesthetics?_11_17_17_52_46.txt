@@ -1,0 +1,36 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: How would you structure a course on algorithmic aesthetics?
+
+---
+
+
+
+There are two ways in which we could try and accomplish those two goals.
+
+---
+
+
+
+Algorithms play a fundamental role in the humanities and cultural studies.
+
+---
+
+ A student, Lysandros Ransam, a software developer who is taking my Artificial Intuition course at CalArts and OCAD U in Toronto, has contributed an awesome blog post that I thought might generate some ideas.
+
+---
+
+
+
+A very dumb joke that is nonetheless relevant in an age where we discuss algorithms, computation and data-analysis a lot is: A scientist, a philosopher and a mathematician are sitting in a boat.
+
+---
+
+ The question does not come out of thin air, but rather has sprung out of our recent guest post by David Clark.
+
+---
+
+ Beyond the operational procedures and conceptualities involved, what challenges does this largely computational phenomenon throw up for theorists, artists, critics and sociologists of art, science and technology? In this invited lecture (as part of the event ‘Making Artisanal A.
+
+---
+

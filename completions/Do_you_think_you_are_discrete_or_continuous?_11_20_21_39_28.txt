@@ -1,0 +1,50 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: Do you think you are discrete or continuous?
+
+---
+
+ Do you think that discreetness or continuity of your working memory images explains your existence? Are you fuzzy, granular or smooth?
+
+We believe that with your help it will be possible to explore more deeply the physical and intuitive foundations of these questions.
+
+---
+
+ Our insight into the structure of matter will help answer this question.
+
+---
+
+
+
+What should a discrete thing know about other discrete things?
+
+What should a continuous thing know about other continuous things?
+
+Do you think you are a subject?
+
+Do you think you are an object?
+
+Do you think you are a process?
+
+Do you think you are in a set of changes?
+
+From the outside, things look discrete - to us, anyway - but are they discrete inside? Does an atom see itself as discrete, or does it see itself as part of something continuous? Does it think, 'I am discrete', or does it think, 'I am an electron?' The Atomists argued that all things were made of atoms - the five kinds of solid, invisible particles that were the building blocks of the universe: earth, water, air, fire, and the aether which filled the space between the planets.
+
+---
+
+
+
+discrete: made up of separate, definitely distinct or individual constituent parts or items; discretely: by way of separation.
+
+---
+
+ Why do you behave the way you do? How do you act and react? What motivates you to perform at the level you do? These are only a few of the questions that the contributors to the present volume examine through the conceptual and methodological tools of the philosophy of discrete systems and the philosophy of the continuous.
+
+---
+
+
+
+I have discrete CA wrapped around continuous CT.
+
+---
+

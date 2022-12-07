@@ -1,0 +1,76 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: Write the description for a course on digital media theory.
+
+---
+
+ What might such a course look like? Or, why aren't we teaching that already?
+
+Why do bad novels sell so well?
+
+What do you do when all the photos you took on your LifeTrek 360 died in a firmware update?
+
+Is it ethical for all Tweets to be archived by the Library of Congress?
+
+How does Instagram help reify feminist stereotypes of models?
+
+What would a religion based on using all media technologies look like?
+
+What would a total archive of culture look like?
+
+Where is the archive of your life?
+
+How does digital media reengineer attention and consciousness?
+
+What does unplugging look like in digital culture?
+
+How does Web “culture” differ from academic research culture?
+
+Why did 45,000 runners train for months and endure inclement weather to #StrikeOutStigma at the New York half marathon during a moment when so much sexism is making international news?
+
+What are the implications of Mark Zuckerberg's hoodie for feminist studies?
+
+What do #RaceFail09 , #Gamergate and #BlackLivesMatter have in common?
+
+Is it possible to live a private life in the digital age?
+
+How do habits of media use compare among individuals, populations and social-technical assemblages?
+
+How is our use of media often unconscious, or at least mostly outside of conscious control?
+
+How.
+
+---
+
+ (Or, if you have the time, write a course on digital media theory) Are digital methods somehow better suited to studying digital culture? Are they more environmental than methods of the past? Is there something special about digital materiality? Ideas on "machinic assemblages" have permeated the humanities world but, if history has taught us anything, machines can also be worlds unto themselves.
+
+---
+
+ Explain how you intend to address the overall theory-practice problematic in the course and what you hope students will gain by taking it.
+
+---
+
+ What kind of compelling expertise would it require; what controversies would it explore; what literacies would it cultivate; what publics ̶ of different sizes, interests, and commitments ̶ might find it engaging; what modes of argumentation and reasoning might it develop; and what styles of practicing research would it explore? (And will you write the course?) For instructor members of the steering committee: write a course description detailing your pedagogy and philosophy.
+
+---
+
+ Authentic documents that name this course, summarize it, locate it in a curriculum, and evaluate its outcome include Anders 2012; Gauger 2012; Goldsmith and Wu 2008; Goldsmith et al.
+
+---
+
+ How does it relate to the other courses in the course description tree? Is it practical?
+
+What kinds of synthesis does the course description support?
+
+How does the course description reflect the core values of the department doing the writing?
+
+How would you modify the course description if you were trying to attract seniors rather than freshmen?
+
+How easy would it be for an instructor to measure the success of the course as described?
+
+How are you imagining the process of actually implementing the syllabus described here?
+
+Should the description of a course also be a model for assessment (Hinman 2014; Jones and Thornham, 2013)? You can download a Word version of the course description model tree in box 4.
+
+---
+

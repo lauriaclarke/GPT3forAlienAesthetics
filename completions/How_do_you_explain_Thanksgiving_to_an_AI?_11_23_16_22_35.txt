@@ -1,0 +1,6 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: How do you explain Thanksgiving to an AI?
+
+---
+

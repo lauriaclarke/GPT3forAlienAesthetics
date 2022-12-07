@@ -1,0 +1,34 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: How would you teach a course on algorithmic aesthetics?
+
+---
+
+ You would never get to Fourier transforms.
+
+---
+
+ One could imagine many approaches.
+
+---
+
+
+The question put by Claire Le Feuvre*.
+
+---
+
+
+In this blog post I can only briefly sketch out a couple of initial thoughts that crossed my mind when I came across the term "algorithmic aesthetics" - a disciplinary concept that for some time I had been aspiring to, yet that I was painfully aware I did not know how to properly enact.
+
+---
+
+
+
+Already in the seventies, I asked my little sister 6-year old mathematician Jasmin siedlecki to help me to further program a modified version of SYS20, a solver of systems of linear equations.
+
+---
+
+ We can, of course, only guess – and our guess may be as inaccurate with mine above.
+
+---
+

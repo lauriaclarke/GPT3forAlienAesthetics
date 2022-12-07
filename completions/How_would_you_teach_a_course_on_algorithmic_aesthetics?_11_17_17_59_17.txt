@@ -1,0 +1,32 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: How would you teach a course on algorithmic aesthetics?
+
+---
+
+.
+
+---
+
+ An annotated bibliography of the writings of Lev Manovich and Darius Kazemi.
+
+---
+
+ What books would you assign?
+
+An entire course could be dedicated to exploring AI experiments that stretch the limits of our perceptual abilities, asking students to consider, for instance, whether humans are indeed the best observers when machines unearth structures that are outside the realm of our ordinary senses and which may even exist theoretically, but are impossible to see.
+
+---
+
+ As Massimo Marino once put it “Algorithms are recipes for doing computations.
+
+---
+
+ Would you use the same methods and categories as contemporary art critics and philosophers of art or try to situate this work at the intersection between programming, design, and art? How can we use traditional art-historical categories when the works themselves operate in an entirely unfamiliar register? This question, more than the question of interpretation, is what lies at the heart of a problem one might say is unique to the field of algorithmic aesthetics.
+
+---
+
+ Normally, I would be having this kind of discussion over lunch or coffee, in the informal atmosphere of a program meeting, casually and more or less informally chatting with friends, or, as I occasionally do, in the role of public commentator, speaking more abstractly, more formally, in public.
+
+---
+

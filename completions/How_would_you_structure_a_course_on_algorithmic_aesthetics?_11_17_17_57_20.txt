@@ -1,0 +1,38 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: How would you structure a course on algorithmic aesthetics?
+
+---
+
+ Should such a course include history and criticism, or is it sufficient to monitor how and why algorithms and their aesthetic manifestations change? If the latter, is such a course already too late deviated? And if you have to include history and criticism, can you avoid the redundancy and stagnation of much existing digital humanities work?
+
+Stefan Stürmer: I think that to establish the term “algorithmic aesthetics” is a task by itself (literally in the Chinese sense of a 難點 task) and implies much more than a model that calls for a finished form in teaching.
+
+---
+
+
+
+AESTHETIC GENETIC ALGORITHMS My SPOON project approaches algorithmic aesthetics from an unexpected angle: applied artificial intelligence, game theory, and machine learning.
+
+---
+
+
+
+AA: A book earlier this year, Thinking Machines: Digital Natives and the New Literacies, mentioned some interesting points about an algorithmic education.
+
+---
+
+ Several times  I have been invited to teach a special topic course on the relation between art and technology and each time I have opted to discuss the topic with students by moving freely along the boundaries of the two domains.
+
+---
+
+ When is a computer to be considered a medium and how is it different from traditional media? Given that computation is a universal technical language, could software be considered a language specific to the digital age? Would you not be venturing into the field of art theory, if you were to try to identify specific aesthetics of computation? Developing a process-oriented understanding of information, such as that argued for in process philosophy (Ashboou & Otterstrom, 2015), as well as in dynamical systems theory and computability theory, seems to encourage plural computing vernaculars and epistemic dilemmas.
+
+---
+
+
+
+Well, as I suggested above, I'd first want to drop aesthetics.
+
+---
+

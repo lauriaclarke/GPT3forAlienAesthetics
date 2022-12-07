@@ -1,0 +1,34 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: Write the description for a course on dgital media theory.
+
+---
+
+ What online or print resources would you include?.
+
+---
+
+
+
+Media Theory
+
+Media Theory is the study of media, of digital media, of the experiences and technologies that result from the parallel pursuit of media infrastructures and cyborg bodies.
+
+---
+
+ Have the students read between the lines; edit each other; and read again.
+
+---
+
+ (Samples.
+
+---
+
+ What would you signal by titling such a course ‘The 2AC’? That is, what Ifnd would be at stake in arguing that digital media theory needs to start thinking in terms of the duad 2AC, beginning with a charaterizezatlon of digital media as at once abstract and phenomenological? I am not sug- gestng a direct line here, but the line of possibility can be traced by taking seriously Kant’s arguments for the ideality of space, time, and matter and his attempts to articulate what is missing from philosophy, namely an account of the sensible.
+
+---
+
+ Here’s part of mine.
+
+---
+

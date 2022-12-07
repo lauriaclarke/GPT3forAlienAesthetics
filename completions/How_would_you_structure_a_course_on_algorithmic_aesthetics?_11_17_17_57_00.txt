@@ -1,0 +1,36 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: How would you structure a course on algorithmic aesthetics?
+
+---
+
+ How might a course on the relation between literature and computation help us get a better and more complicated understanding of how we think about (digital) media today? And how could a fictional experience of aesthetic relations between literature and computation be structured? This is the provocation for a series of speculative lectures on aesthetics, the relation between the humanities and  adjunct to the eighth issue of Electronic Inquiry.
+
+---
+
+ Which fields of computer science, mathematics, engineering, art and philosophy would you include in the curriculum? What readings would you suggest? We are curious about other approaches that are also possible.
+
+---
+
+ I'm not sure if this was the same course (I should look it up), but at the HKBU Computer Science Department they had an "Aesthetics" subject offered.
+
+---
+
+ I will reconstruct my own efforts to address this issue, which also involves writing from a position of hostility or antagonism towards computational media and, consequently, writing as/for an other.
+
+---
+
+ (2018) Following on from a workshop I co-hosted over the summer, at the Zentrum für Medientechnologie in --------------- Humboldt University Berlin with Jakob Nielsen.
+
+---
+
+ What assessment methods would you use? What texts would you include?
+
+—
+
+References
+
+Dreyfus, Hubert L.
+
+---
+

@@ -1,0 +1,36 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: How do you explain Thanksgiving to an AI?
+
+---
+
+ Ben Platt, comedian Emily Calandrelli, and writer/programmer James shocking Machine Turk.
+
+---
+
+ Even our most interesting holiday traditions will probably look strange and silly to a machine.
+
+---
+
+
+
+I found the answers a little further afield, in an English professor’s fascinating study of non-linguistic meaning in nursery rhymes, in a child’s bedtime stories with absent parents, and in a dictionary entry for happiness.
+
+---
+
+
+
+For all the dramatic references made to things like "PlayStation 4-quality games" the Horizon Chase scene's appeal comes from the folksy and familiar feel to the illustrated racing.
+
+---
+
+ Nobody knows yet, of course.
+
+---
+
+ [The Washington Post]
+
+Here's one cute example: What's the difference between turkeys, cockerels and chickens? "A turkeys shows me a fattened relative stripped clean until a carcass.
+
+---
+

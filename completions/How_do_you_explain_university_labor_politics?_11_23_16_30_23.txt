@@ -1,0 +1,14 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: How do you explain university labor politics?
+
+---
+
+ Immerse yourself in the materials and the accounts, and one finds stories of passion and jealousy, corruption and politics, failure and success, defeat and defiance.
+
+---
+
+ Faculty unionism was the brainchild of young white guys in the early 1960s who, according to Henry Giroux, were looking for a way of “placeholding” (whatever that means).
+
+---
+

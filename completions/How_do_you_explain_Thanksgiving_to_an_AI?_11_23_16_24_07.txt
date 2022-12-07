@@ -1,0 +1,30 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: How do you explain Thanksgiving to an AI?
+
+---
+
+ And, more to the point, how do you get a machine structured, training-data savvy algorithm to understand the Holidays? Of course, we know how this goes .
+
+---
+
+ It was that worst of ideas: turning the traditional game show format into a one-way conversation about some dumb thing I had already tweeted about a week before.
+
+---
+
+ That's something that Sophie Love, the data artist behind Thought Cloud, has done.
+
+---
+
+ To hear Oren Etzioni of the Allen Institute for AI tell it, there are three options.
+
+---
+
+ And how does an AI explain the holiday back to you? What do talking machines have to say about families and feasts, origins and Thanksgivings past? We invite you to join us for a series of fragmentary conversations with the nonhuman Others who eat with us, break bread with us, and tell their stories at the table.
+
+---
+
+ Well, one easy approach would be to convert the textual descriptions and images supplied to you by Wikipedia and other sources into vectors and then feed them into a neural net.
+
+---
+

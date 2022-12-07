@@ -1,0 +1,40 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: How would you structure a course on algorithmic aesthetics?
+
+---
+
+
+
+Istanbul, 6th of October 2015
+
+by Mario Von Zombie
+
+Monitored and processed flows of light are like blood through veins: cities and computers are the organisms fields of flesh that are sustained by fluxes, waves and transfers between the outside and inside, the skin and the bone: light, only designed for giving us sight, becomes magic smoke that we breath, a wave-flow of promesse and suggestion, of suspense of meaning and potential: we wave, float and float in suspension and run on strings of light into darkness.
+
+---
+
+ #a11y pic.
+
+---
+
+
+
+I'd love to be better at teaching code.
+
+---
+
+ We initiated a pilot course on the subject at the St.
+
+---
+
+ Or the Aesthetics of Code?
+
+Julie Belaga, Associate Dean for Graduate Studies at the University of Michigan (Ann Arbor) gave a presentation at the AAA conference in Florida this fall on the topic of this blogpost.
+
+---
+
+ I don’t pretend to have a definite answer to this incisive question as I still have to clearly formulate for myself what “algorithmic aesthetics” means, apart, one hopes, from apps that make pretty designs.
+
+---
+

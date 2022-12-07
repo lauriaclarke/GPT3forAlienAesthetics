@@ -1,0 +1,48 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: How would you teach a course on algorithmic aesthetics?
+
+---
+
+ What would a curriculum on that topic look like?
+
+Vardalas:
+
+Is aesthetic experience something you appreciate only when you are detached or are you detached only when you have the aesthetic experience?
+
+Mackenzie:
+
+That particular experience has to happen inside the machine.
+
+---
+
+ Please join the discussion below in the comments or on twitter @xcess_ifleouf.
+
+---
+
+
+
+DD: I do not believe in teaching specific "style" of programming, or a particular algorithm, rather the course should focus on concepts of the artistic, cultural and social thought notion of algorithm and the design of the computational system (which includes the physical, social and cultural world) and the ways of writing an algorithm with which to tackle a certain problem.
+
+---
+
+ Or are such topics best left to philosophy and engineering, art history or computer science?
+
+>> Continuing the process of rereading and repurposing philosopher Alain Badiou’s poetry anthology After Badiou: The Mathematics of the Novel, a collaborative yet individualist editorial project >>
+
+Online.
+
+---
+
+ Could you?
+
+And, why?
+
+This Note to Know series is composed of experiments that do just that.
+
+---
+
+ Or how would you use aesthetic thought and the analysis of digital culture to engage with a course syllabus? Of course, this is a straw-man question, which I invite you to answer in an incendiary blog entry.
+
+---
+

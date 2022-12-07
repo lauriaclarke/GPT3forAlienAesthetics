@@ -1,0 +1,18 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: What is the best toast to give at thanksgiving?
+
+---
+
+
+
+Dear Askethicists, What is the best toast to give at thanksgiving? …
+
+This essay is part of a collection that explores how we should live in the Anthropocene.
+
+---
+
+ Q: The turkey ran away.
+
+---
+

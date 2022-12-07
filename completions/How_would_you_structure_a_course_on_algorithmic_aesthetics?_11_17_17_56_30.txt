@@ -1,0 +1,32 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: How would you structure a course on algorithmic aesthetics?
+
+---
+
+ Let me know.
+
+---
+
+ “My goal is to teach it at a more advanced level, where we have basic programming skills and the maturity to do conceptual work but we also have access to the big data collections of the internet.
+
+---
+
+ My starting point is that a major advantage of computational systems such as computers is that their operations can be fully recorded, replicated, and scrutinized.
+
+---
+
+.
+
+---
+
+ The first thing that comes to mind is: DON’T DO IT! Why? Because you (the instructor) are not an artist and cannot emulate the creative process.
+
+---
+
+
+
+I have, in fact, considered this question, not formally in a teaching setting, but informally through conversations with colleagues, friends, and students.
+
+---
+

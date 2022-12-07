@@ -1,0 +1,37 @@
+MODEL: davinci:ft-parsons-school-of-design-2022-11-15-19-36-19
+
+PROMPT: How would you structure a course on algorithmic aesthetics?
+
+---
+
+
+
+I don't want to impose my particular way of thinking on others… But I think it's interesting to write post-digitalist theories of algorithmic aesthetics.
+
+---
+
+ Five propositions.
+
+---
+
+ Would it be an art history course in which algorithmic techniques are investigated as one instance among many of a technical driven, historically specific formal language of representation? Would it be a technically/mathematically focused course, demonstrating the algorithmic ability of 'programmed machines'? Would it be a course on cultural critique, investigating the 'scientization' of our world? Or would it be one devoted to the digital arts, conceived of as the creation and investigation of new artworks based on computational models? The remainder of this article explores these alternative frameworks in the hope of addressing some of the issues raised above.
+
+---
+
+
+
+I would borrow lesson number one: build in failure and failure modes.
+
+---
+
+ What examples should one use? How mind-numbingly boring would it be?
+I don't mean to put down artistic approaches to algorithms – on the contrary, artists confront algorithmic mechanisms with other registers of thought and feeling, giving form to otherwise inaccessible or mute affective dimensions of computation.
+
+---
+
+
+
+There is no such course, because there is no such discipline.
+
+---
+
